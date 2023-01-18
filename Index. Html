@@ -1,0 +1,51 @@
+<html>
+
+ <head>
+
+ <style>
+
+ td {
+
+padding:10px;
+
+}
+
+.asd{
+
+ width: 280px;
+
+}
+
+select {
+
+ width: 280px;
+
+}
+
+ </style>
+
+ </head>
+
+ <body>
+
+ <p style="font-size: 25px; background-color:burlywood; font-family:Old 
+
+English Text MT;">Registration (Kindly fill application carefully otherwise 
+
+your application will be rejected)</p>
+
+ <form>
+
+ <table width="75%">
+
+ <tr>
+
+ <td>
+
+ Post Applied For* 
+
+ </td>
+
+ <td>
+
+ <select name="" id="">
